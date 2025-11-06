@@ -1,0 +1,18 @@
+# Backend requirements
+# NLP
+spacy
+nltk
+
+# Web Scraping
+selenium
+beautifulsoup4
+trafilatura
+newspaper3k
+
+# LLM
+ollama
+
+# API
+Flask
+Flask-Cors
+ollama
