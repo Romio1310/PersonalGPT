@@ -1,4 +1,4 @@
-# Personal AI Copilot 🤖
+# PersonalGPT 🤖
 
 A full-stack conversational AI system inspired by ChatGPT, Gemini, and Perplexity. This project demonstrates an intelligent AI assistant that provides personalized, context-aware responses by combining real-time web intelligence with local LLM processing.
 
@@ -240,7 +240,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Gurdeep Singh**
 - LinkedIn: [gurdeep-singh0810](https://www.linkedin.com/in/gurdeep-singh0810/)
 - GitHub: [@Romio1310](https://github.com/Romio1310)
-- Phone: +91-6283376979
 
 ## 🙏 Acknowledgments
 
